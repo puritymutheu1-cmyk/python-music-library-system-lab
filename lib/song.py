@@ -1,4 +1,5 @@
 class Song:
+    pass
     # Class attributes
     count = 0
     genres = []
